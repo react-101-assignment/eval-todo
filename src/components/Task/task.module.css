@@ -1,0 +1,25 @@
+.task {
+  /* Sample  */
+  /* display:flex;
+  justify-content: space-between;
+  align-items: center; */
+  list-style-type: none;
+  
+}
+
+.newClass button {
+  margin-right:12px;
+  background:transparent;
+  border:none;
+  font-size:22px;
+}
+.newClass{
+  display:flex;
+  margin-right:12px;
+  background:transparent;
+  border:none;
+  font-size:22px;
+  justify-content: space-between;
+  align-items: center;
+  
+}

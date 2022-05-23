@@ -1,0 +1,28 @@
+.addTask {
+  /* Sample */
+
+}
+.todoForm{
+  padding:8px;
+  background:#fff;
+  display:flex;
+  justify-content: space-between;
+  padding-left:25px;
+  padding-right:25px;
+  position:relative;
+  box-sizing: border-box;
+  border-bottom:1px solid rgb(186, 184, 184);
+}
+.todoForm input{
+  width:80%;
+  border:none;
+  outline: none;
+  font-size:18px;
+}
+.todoForm button{
+    border:none;
+    background: transparent;
+    font-size:28px;
+    font-weight: 700;
+    color:#2278AA;
+}

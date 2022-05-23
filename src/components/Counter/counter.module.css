@@ -1,0 +1,19 @@
+.counter {
+  /* TODO */
+  font-size:22px;
+  display:flex;
+  align-items: center;
+}
+
+.counter button{
+  border:none;
+  background:#2177AB;
+  font-size:22px;
+  
+  
+ 
+}
+.counter span{
+  padding:5px;
+  
+}

@@ -1,0 +1,13 @@
+.taskHeader {
+  background:linear-gradient(To right, #6CE0A5,#1C70AB);
+  text-align: center;
+  padding:28px;
+  border-top-left-radius:8px;
+  border-top-right-radius:8px; 
+  color:#fff;
+  
+}
+
+.taskHeader h1{
+  line-height: 0;
+}
